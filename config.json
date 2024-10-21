@@ -1,0 +1,9 @@
+{
+    "input_mode": "text",
+    "ppt_template": "../templates/LGBTQIA Pride Month presentation.pptx",
+    "layout_mapping": {
+        "Overview": 0,
+        "Right Pattern Content": 1,
+        "Two Photo Content": 6
+    }
+}
